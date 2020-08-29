@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-microservice-imagedata-facade
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: david
+Implementation-Vendor-Id: com.dev.spring.imagedata
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-microservice-imagedata-facade
+Created-By: Maven Integration for Eclipse
+
